@@ -131,3 +131,6 @@ dmypy.json
 # Sensitive information
 credentials.txt
 api_key
+
+# Drivers
+chromedriver
